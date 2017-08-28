@@ -1,0 +1,6 @@
+http://warrensoft.co.uk/home-hub/code/website/html/login.php
+http://warrensoft.co.uk/home-hub/code/website/html/logout.php
+http://warrensoft.co.uk/home-hub/code/website/html/signIn.php
+http://warrensoft.co.uk/home-hub/code/website/html/auth.inc
+http://warrensoft.co.uk/home-hub/code/website/html/home.php
+http://warrensoft.co.uk/home-hub/code/website/html/statistics.php

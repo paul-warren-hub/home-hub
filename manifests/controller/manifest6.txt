@@ -1,0 +1,3 @@
+http://warrensoft.co.uk/home-hub/code/controller/sensor_helpers/bme280.py
+http://warrensoft.co.uk/home-hub/code/controller/sensor_helpers/bme_serial.py
+http://warrensoft.co.uk/home-hub/code/controller/sensor_helpers/bme_interface.py

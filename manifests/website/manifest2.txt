@@ -1,0 +1,12 @@
+http://warrensoft.co.uk/home-hub/code/website/html/organisation.php
+http://warrensoft.co.uk/home-hub/code/website/html/action.php
+http://warrensoft.co.uk/home-hub/code/website/html/actuatorType.php
+http://warrensoft.co.uk/home-hub/code/website/html/actuator.php
+http://warrensoft.co.uk/home-hub/code/website/html/setting.php
+http://warrensoft.co.uk/home-hub/code/website/html/user.php
+http://warrensoft.co.uk/home-hub/code/website/html/rule.php
+http://warrensoft.co.uk/home-hub/code/website/html/getMapChartData.php
+http://warrensoft.co.uk/home-hub/code/website/html/zone.php
+http://warrensoft.co.uk/home-hub/code/website/html/impulse.php
+http://warrensoft.co.uk/home-hub/code/website/html/sensor.php
+http://warrensoft.co.uk/home-hub/code/website/html/measurand.php

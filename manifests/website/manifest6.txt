@@ -1,0 +1,4 @@
+http://warrensoft.co.uk/home-hub/code/website/html/conditions.php
+http://warrensoft.co.uk/home-hub/code/website/html/updateConditions.php
+http://warrensoft.co.uk/home-hub/code/website/html/conditionGraphs.php
+http://warrensoft.co.uk/home-hub/code/website/html/getConditionChartData.php

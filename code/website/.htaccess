@@ -1,0 +1,3 @@
+RemoveType .php
+Options +Indexes
+IndexIgnore ..
